@@ -2,8 +2,6 @@ Entregable solicitado:
 - Archivo de texto con enlace a repositorio y contenidos listos para subir.
 - Código fuente Java (en src/) implementando clases y operaciones sobre lista enlazada simple para alumnos.
 
-IMPORTANTE: No puedo crear un repositorio remoto desde aquí. Por favor cree un nuevo repositorio en GitHub (o GitLab) llamado 'linkedlist-academico' y suba la carpeta 'src' y este archivo README.txt.
-
 Sugerencia rápida para crear el repo y subir:
 1. Crear repo en GitHub (nombre: linkedlist-academico).
 2. En su máquina:
